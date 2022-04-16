@@ -18,3 +18,8 @@ A Python script to visualize data points of the weather for 500+ cities across t
 
 # Travel map using bicycle:
 
+![WeatherPy_travel_map png](https://user-images.githubusercontent.com/100442163/163689786-1b1cf05e-1f26-4dd3-a225-056dd2d75659.PNG)
+
+
+# Travel map with markers:
+![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/100442163/163689795-95cefcc9-5f1b-436c-8ad1-d1e6bffff0e6.png)
